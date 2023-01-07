@@ -18,7 +18,7 @@ sidebar: false
 <a href="https://play.google.com/store/apps/details?id=cn.ac.xjtlu.yaxjtlu">
 <img src="./img/index-1.png" width="25%"/>
 </a>
-<a href="https://f-droid.org/packages/cn.ac.xjtlu.yaxjtlu/">
+<a href="https://github.com/lz233/YAXJTLUDocument/releases">
 <img src="./img/index-2.png" width="25%"/>
 </a>
 </p>
